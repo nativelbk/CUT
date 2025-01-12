@@ -166,7 +166,7 @@ const LocationCard = ({
         {/* Section QR Code */}
         <div className="w-[35%] flex flex-col items-center justify-center">
           <p className="text-gray-600 mb-4 text-center text-sm">
-            Scannez le QR Code pour plus d'informations :
+            Scannez le QR Code pour plus d&apos;informations :
           </p>
           <div className="p-4 bg-gray-50 rounded-xl shadow-md hover:scale-105 transition-transform duration-300">
             <QRCode

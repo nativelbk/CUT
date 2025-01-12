@@ -85,7 +85,7 @@ export default function LoginForm() {
               href="/register"
               className="text-sm text-gray hover:underline"
             >
-              Vous n'avez pas de compte?
+              Vous n&apos;avez pas de compte?
             </Link>
           </div>
 
